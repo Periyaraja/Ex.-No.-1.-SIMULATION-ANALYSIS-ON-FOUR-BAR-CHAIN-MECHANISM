@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8bccba64-d875-4f2c-a74a-3341913c5288)# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 
 
@@ -52,7 +52,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 
-## Output:[Uploading image.png…]()
+## Output:![image](https://github.com/user-attachments/assets/5552eb33-dc57-4530-a9f4-bb1229dd6250)
+
 
 
 
